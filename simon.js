@@ -152,9 +152,6 @@ function mutebutton(){
     
   }
   
-
-// soundButton.style.backgroundColor="white"
-
 }
 // Generate the next sequence
 function nextLevel() {
