@@ -153,7 +153,7 @@ function mutebutton(){
   }
   
 
-soundButton.style.backgroundColor="white"
+// soundButton.style.backgroundColor="white"
 
 }
 // Generate the next sequence
